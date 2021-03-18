@@ -3,7 +3,7 @@
     
       
        {
-       
+       "id":10,
         "aage": "21-65",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
         "rating": 4,
@@ -24,7 +24,7 @@
          "rating":"5",
          "age":"18-65",
          "percent":"1%",
-         "sum_one":"до 50 000 руб",
+         "sum_one":"до 90 000 руб",
          "sum_min":"до 1 000 руб",
          "days_info":"до 160 дней",
          "term_to":"160",
